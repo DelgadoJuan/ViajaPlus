@@ -1,0 +1,13 @@
+package com.viajaplus.ViajaPlus;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ViajaPlusApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
